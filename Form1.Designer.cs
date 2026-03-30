@@ -34,7 +34,7 @@
             // btnTarget
             // 
             btnTarget.BackColor = SystemColors.ButtonHighlight;
-            btnTarget.Font = new Font("맑은 고딕", 18F, FontStyle.Regular, GraphicsUnit.Point, 129);
+            btnTarget.Font = new Font("맑은 고딕", 24F, FontStyle.Regular, GraphicsUnit.Point, 129);
             btnTarget.ForeColor = Color.Blue;
             btnTarget.Location = new Point(285, 153);
             btnTarget.Name = "btnTarget";
